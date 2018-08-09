@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.scheduled.jobs.sample
+---
+testFramework: spock
+sourceLanguage: groovy
