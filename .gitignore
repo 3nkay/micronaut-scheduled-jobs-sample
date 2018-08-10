@@ -10,7 +10,9 @@ ml
 .classpath
 .factorypath
 .gradle
+.gradle/
 .idea
+.idea/
 .metadata
 .project
 .recommenders

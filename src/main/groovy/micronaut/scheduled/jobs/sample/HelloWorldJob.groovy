@@ -4,10 +4,12 @@ import groovy.transform.CompileStatic
 import groovy.util.logging.Slf4j
 import io.micronaut.scheduling.annotation.Scheduled
 
+import javax.inject.Singleton
 import java.text.SimpleDateFormat
 
 @CompileStatic
 @Singleton
+
 @Slf4j
 class HelloWorldJob {
 
